@@ -1,0 +1,16 @@
+{
+  "name": "hyveewebservice",
+  "version": "1.0.0",
+  "description": "Web serivce for hyvee poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Keshav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
